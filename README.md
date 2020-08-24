@@ -5,7 +5,7 @@
 ### Installation
 * Copy the *.rbf file to the root of the system SD card.
 * Place some Atari 2600 ROMs into Atari2600 folder
-
+* Atari is great
 ## Usage notes
 
 ### Paddle
